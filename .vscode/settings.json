@@ -1,0 +1,15 @@
+{
+  "javascript.preferences.quoteStyle": "single",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "files.exclude": {
+    "**/.DS_Store": true,
+    "**/.git": true,
+    "**/.hg": true,
+    "**/.svn": true,
+    "**/.vscode": true,
+    "**/CVS": true,
+    "**/package.json": true
+  },
+  "typescript.preferences.quoteStyle": "single",
+}
